@@ -27,7 +27,7 @@ Create a folder for your college projects.  Go into that folder.
 
 Inside that college folder, run:
 
-```git clone https://github.com/eoinco/nci_2021.git```
+```git clone https://github.com/aakashpatil22/BlockchainConcepts```
 
 ## Updating Code in Repo from Github ##
 
@@ -96,11 +96,11 @@ To POST to a route, execute the following CURL command:
 
 ### build a docker container ###
 
-```docker build -t nci/lab2021 .```
+```docker build -t aakash-blockchain.```
 
 ### run the image ###
 
-```docker run -p 8090:8080 --name nci -d nci/lab2021```
+```docker run -p 8090:8080 --name nci -d aakash-blockchain```
 
 ### kill a running container ###
 ```docker kill [name]```
