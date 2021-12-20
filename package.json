@@ -1,0 +1,31 @@
+{
+  "name": "aakash",
+  "version": "1.0.0",
+  "description": "college project",
+  "main": "contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoinco/nci_2021.git"
+  },
+  "author": "aakash patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eoinco/nci_2021/issues"
+  },
+  "homepage": "https://github.com/eoinco/nci_2021#readme",
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "docker": "^1.0.0",
+    "dotenv": "^10.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "web3": "^1.6.1"
+  },
+  "keywords": [
+    "assignment"
+  ]
+}
